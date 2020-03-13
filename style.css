@@ -7,12 +7,6 @@ body {
     font-family: 'Baloo 2', cursive;
 }
 
-.card {
-    position: absolute;
-    left: 50px;
-    right: 50px;
-}
-
 .nav-item {
     font-size: 24px;
     font-family: 'Baloo 2', cursive;
@@ -25,16 +19,7 @@ body {
     margin-right: 5px;
 }
 
-#aboutmecard {
-    background-color: black;
-}
-
-.card-text {
-    color: white;
-    font-size: 16px;
-}
-
-.card-title {
-    color: white;
-    font-family: 'Baloo 2', cursive;
+.text {
+    color: black;
+    font-size: 20px;
 }
